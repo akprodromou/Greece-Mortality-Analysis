@@ -1,0 +1,28 @@
+Indicator Code: CG0870
+"Indicator Name: Alzheimer and other dementias"
+Export date: 2/12/2025 9:35:10 AM
+Source location: "WHO Mortality Database portal"
+"Indicator metadata: F01, F03, G30-G31"
+
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,"Age-standardized death rate per 100 000 standard population","Death rate per 100 000 population"
+EU,Europe,GRC,Greece,2000,All,Age_all,[All],749.00000000,0.71218028,3.79752229,6.86057202,
+EU,Europe,GRC,Greece,2001,All,Age_all,[All],770.00000000,0.75078735,3.84280442,7.03199365,
+EU,Europe,GRC,Greece,2002,All,Age_all,[All],718.00000000,0.69094933,3.50635354,6.53466343,
+EU,Europe,GRC,Greece,2003,All,Age_all,[All],718.00000000,0.68038170,3.45843333,6.51333892,
+EU,Europe,GRC,Greece,2004,All,Age_all,[All],780.00000000,0.74326771,3.71412251,7.05133508,
+EU,Europe,GRC,Greece,2005,All,Age_all,[All],693.00000000,0.65942850,3.28226258,6.24103414,
+EU,Europe,GRC,Greece,2006,All,Age_all,[All],644.00000000,0.61352031,2.86072003,5.77654477,
+EU,Europe,GRC,Greece,2007,All,Age_all,[All],700.00000000,0.63697165,2.97986251,6.25399306,
+EU,Europe,GRC,Greece,2008,All,Age_all,[All],593.00000000,0.54918086,2.46779879,5.27717729,
+EU,Europe,GRC,Greece,2009,All,Age_all,[All],651.00000000,0.60101924,2.59424525,5.76986942,
+EU,Europe,GRC,Greece,2010,All,Age_all,[All],631.00000000,0.57845330,2.60552767,5.58033888,
+EU,Europe,GRC,Greece,2011,All,Age_all,[All],636.00000000,0.57246240,2.50625908,5.62830613,
+EU,Europe,GRC,Greece,2012,All,Age_all,[All],876.00000000,0.75084856,3.35493203,7.89702638,
+EU,Europe,GRC,Greece,2013,All,Age_all,[All],762.00000000,0.68161082,2.83974126,6.94923167,
+EU,Europe,GRC,Greece,2014,All,Age_all,[All],1221.00000000,1.07350097,3.49763237,11.20968267,
+EU,Europe,GRC,Greece,2020,All,Age_all,[All],3628.00000000,2.76769095,8.60933510,33.91101387,
+EU,Europe,GRC,Greece,2019,All,Age_all,[All],2700.00000000,2.15972356,6.74110813,25.18292598,
+EU,Europe,GRC,Greece,2018,All,Age_all,[All],2450.00000000,2.03550925,6.57493517,22.82701280,
+EU,Europe,GRC,Greece,2017,All,Age_all,[All],2437.00000000,1.95708389,6.37028076,22.65985823,
+EU,Europe,GRC,Greece,2016,All,Age_all,[All],2004.00000000,1.68471316,5.65676176,18.59690094,
+EU,Europe,GRC,Greece,2015,All,Age_all,[All],1778.00000000,1.46355517,5.16333125,16.43106843,

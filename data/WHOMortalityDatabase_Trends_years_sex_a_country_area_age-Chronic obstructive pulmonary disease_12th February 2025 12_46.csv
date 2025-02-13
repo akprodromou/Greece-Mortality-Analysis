@@ -1,0 +1,28 @@
+Indicator Code: CG1120
+"Indicator Name: Chronic obstructive pulmonary disease"
+Export date: 2/12/2025 11:46:36 AM
+Source location: "WHO Mortality Database portal"
+"Indicator metadata: J40-J44"
+
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,"Age-standardized death rate per 100 000 standard population","Death rate per 100 000 population"
+EU,Europe,GRC,Greece,2000,All,Age_all,[All],1461.00000000,1.38917942,6.87285080,13.38223727,
+EU,Europe,GRC,Greece,2001,All,Age_all,[All],1547.00000000,1.50840004,7.07414139,14.12791452,
+EU,Europe,GRC,Greece,2002,All,Age_all,[All],1346.00000000,1.29528942,6.10784904,12.25021863,
+EU,Europe,GRC,Greece,2003,All,Age_all,[All],1170.00000000,1.10869998,5.20343523,10.61365813,
+EU,Europe,GRC,Greece,2004,All,Age_all,[All],1161.00000000,1.10632540,5.17165230,10.49564106,
+EU,Europe,GRC,Greece,2005,All,Age_all,[All],1172.00000000,1.11522395,4.92516277,10.55482253,
+EU,Europe,GRC,Greece,2006,All,Age_all,[All],1879.00000000,1.79006935,7.37906196,16.85423544,
+EU,Europe,GRC,Greece,2007,All,Age_all,[All],2109.00000000,1.91910460,7.96942223,18.84238767,
+EU,Europe,GRC,Greece,2008,All,Age_all,[All],2173.00000000,2.01242834,8.03355041,19.33778455,
+EU,Europe,GRC,Greece,2009,All,Age_all,[All],2415.00000000,2.22958750,8.44494864,21.40435431,
+EU,Europe,GRC,Greece,2010,All,Age_all,[All],2413.00000000,2.21205676,8.08111261,21.33971113,
+EU,Europe,GRC,Greece,2011,All,Age_all,[All],2270.00000000,2.04322271,7.32557029,20.08845113,
+EU,Europe,GRC,Greece,2012,All,Age_all,[All],2253.00000000,1.93112079,6.96424476,20.31050278,
+EU,Europe,GRC,Greece,2013,All,Age_all,[All],2111.00000000,1.88829454,6.25703859,19.25174285,
+EU,Europe,GRC,Greece,2014,All,Age_all,[All],2803.00000000,2.46439247,8.10346734,25.73361222,
+EU,Europe,GRC,Greece,2020,All,Age_all,[All],3023.00000000,2.30615483,7.71661277,28.25606255,
+EU,Europe,GRC,Greece,2019,All,Age_all,[All],3220.00000000,2.57567031,8.28178229,30.03297098,
+EU,Europe,GRC,Greece,2018,All,Age_all,[All],3006.00000000,2.49744523,7.84989801,28.00734713,
+EU,Europe,GRC,Greece,2017,All,Age_all,[All],3237.00000000,2.59954064,8.57008026,30.09846578,
+EU,Europe,GRC,Greece,2016,All,Age_all,[All],2950.00000000,2.47999193,8.04595320,27.37567754,
+EU,Europe,GRC,Greece,2015,All,Age_all,[All],3451.00000000,2.84067992,9.75618899,31.89179818,
