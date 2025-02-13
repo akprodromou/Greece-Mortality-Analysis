@@ -1,6 +1,3 @@
-# Greece-Mortality-Analysis
-Python visualization of mortality rates and percentage change in mortality rates in Greece between 2000 and 2020.
-
 # Greece Mortality Analysis (2000–2020)
 
 This project analyzes trends in mortality rates for major causes of death in Greece, using WHO mortality data.
