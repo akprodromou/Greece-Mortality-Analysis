@@ -12,5 +12,5 @@ This project analyzes trends in mortality rates for major causes of death in Gre
 - Data sourced from WHO Mortality Database
 
 ## Files:
-- `mortality_analysis.ipynb` → Data analysis & visualization Notebook
+- `Mortality Rates by Cause.ipynb` → Data analysis & visualization Notebook
 - `Mortality rates by disease in Greece.pdf` → Visualization of Absolute mortality trends and Percentage change trends
